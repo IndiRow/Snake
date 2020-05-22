@@ -1,11 +1,11 @@
 # Snake
-<br>Title: Snake
-<br>Expected outcomes: Good emotions :)
-<br>Aim of project: For improve my skills
-<br>Estimative budget: Free
-<br>Partners: Nobody
-<br>Repository Link: https://github.com/IndiRow/Snake
-<br>Contact Person: <br>Name:    Ilshat
+<br><strong>Title:</strong> Snake
+<br><strong>Expected outcomes:</strong> Good emotions :)
+<br><strong>Aim of project:</strong> For improve my skills
+<br><strong>Estimative budget:</strong> Free
+<br><strong>Partners:</strong> Nobody
+<br><strong>Repository Link:</strong> https://github.com/IndiRow/Snake
+<br><strong>Contact Person:</strong> <br>Name:    Ilshat
                 <br>Surname: Niyazov
                 <br>e-mail: ilshat.niyazov@iaau.edu.kg
                 <br>mobile: +996555122123
