@@ -5,10 +5,11 @@
 <br><strong>Estimative budget:</strong> Free
 <br><strong>Partners:</strong> Nobody
 <br><strong>Repository Link:</strong> https://github.com/IndiRow/Snake
-<br><strong>Contact Person:</strong> <br>Name:    Ilshat
-                <br>Surname: Niyazov
-                <br>e-mail: ilshat.niyazov@iaau.edu.kg
-                <br>mobile: +996555122123
+<br><strong>Contact Person:</strong> 
+                <br><strong>Name:</strong>    Ilshat
+                <br><strong>Surname:</strong> Niyazov
+                <br><strong>e-mail:</strong> ilshat.niyazov@iaau.edu.kg
+                <br><strong>mobile:</strong> +996555122123
 
 Project for the final exam
 Snake (Python, Boa constrictor, Snake) - a computer game that arose in the mid or late 1970s.
